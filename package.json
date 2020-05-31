@@ -1,0 +1,14 @@
+{
+  "name": "imgcomparison",
+  "version": "1.0.0",
+  "description": "Compare images based on pixel",
+  "main": "imgcomp.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
